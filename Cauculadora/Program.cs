@@ -45,7 +45,7 @@ namespace Cauculadora
                     }
                 case 4:
                     {
-                        resultado = Multiplicacao(num1, num2);
+                        resultado = Divisao(num1, num2);
                         break;
                     }
 
