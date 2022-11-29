@@ -1,0 +1,8 @@
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csproj.AssemblyReference.cache
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.csproj.CoreCompileInputs.cache
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe.config
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.exe
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\bin\Debug\Cauculadora.pdb
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.exe
+C:\Users\gerson.csantos1\source\repos\Cauculadora\Cauculadora\obj\Debug\Cauculadora.pdb
